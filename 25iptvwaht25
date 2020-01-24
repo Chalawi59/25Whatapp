@@ -1,0 +1,46 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1" name="BBC-Arabic" group="NEWS", BBC-Arabic
+http://beryantv.com:25461/32443645743134/32443645743134/944
+#EXTINF:0 type="stream" channelId="-1" name="Al-Arabiya" group="NEWS", Al-Arabiya
+http://beryantv.com:25461/32443645743134/32443645743134/945
+#EXTINF:0 type="stream" channelId="-1" name="Alhadath" group="NEWS", Alhadath
+http://beryantv.com:25461/32443645743134/32443645743134/946
+#EXTINF:0 type="stream" channelId="-1" name="Sharq-News" group="NEWS", Sharq-News
+http://beryantv.com:25461/32443645743134/32443645743134/953
+#EXTINF:0 type="stream" channelId="-1" name="Iraqia-News" group="NEWS", Iraqia-News
+http://beryantv.com:25461/32443645743134/32443645743134/954
+#EXTINF:0 type="stream" channelId="-1" name="EXtra-News" group="NEWS", EXtra-News
+http://beryantv.com:25461/32443645743134/32443645743134/947
+#EXTINF:0 type="stream" channelId="139" name="France-24" group="NEWS", France-24
+http://beryantv.com:25461/32443645743134/32443645743134/951
+#EXTINF:0 type="stream" channelId="352" name="DW-TV" group="NEWS", DW-TV
+http://beryantv.com:25461/32443645743134/32443645743134/952
+#EXTINF:0 type="stream" channelId="-1" name="MBC2" group="MBC", MBC2
+http://beryantv.com:25461/32443645743134/32443645743134/928
+#EXTINF:0 type="stream" channelId="-1" name="MBC-Action" group="MBC", MBC-Action
+http://beryantv.com:25461/32443645743134/32443645743134/935
+#EXTINF:0 type="stream" channelId="-1" name="MBC-Max" group="MBC", MBC-Max
+http://beryantv.com:25461/32443645743134/32443645743134/936
+#EXTINF:0 type="stream" channelId="-1" name="MBC-Masr" group="MBC", MBC-Masr
+http://beryantv.com:25461/32443645743134/32443645743134/932
+#EXTINF:0 type="stream" channelId="-1" name="MBC-Masr2" group="MBC", MBC-Masr2
+http://beryantv.com:25461/32443645743134/32443645743134/933
+#EXTINF:0 type="stream" channelId="-1" name="MBC-Iraq" group="MBC", MBC-Iraq
+http://beryantv.com:25461/32443645743134/32443645743134/934
+#EXTINF:0 type="stream" channelId="-1" name="NETFLIX BOX OFFICE" group="OSN&BEIN&FOX", NETFLIX BOX OFFICE
+http://beryantv.com:25461/32443645743134/32443645743134/875
+#EXTINF:0 type="stream" channelId="-1" name="NETFLIX ACTION 2" group="OSN&BEIN&FOX", NETFLIX ACTION 2
+http://beryantv.com:25461/32443645743134/32443645743134/877
+#EXTINF:0 type="stream" channelId="-1" name="NETFLIX ACTION 1" group="OSN&BEIN&FOX", NETFLIX ACTION 1
+http://beryantv.com:25461/32443645743134/32443645743134/878
+http://beryantv.com:25461/32443645743134/32443645743134/888
+#EXTINF:0 type="stream" channelId="-1" name="OSN Action HD" group="OSN&BEIN&FOX", OSN Action HD
+http://beryantv.com:25461/32443645743134/32443645743134/889
+#EXTINF:0 type="stream" channelId="1418" name="HGTV" group="OSN&BEIN&FOX", HGTV
+http://beryantv.com:25461/32443645743134/32443645743134/890
+#EXTINF:0 type="stream" channelId="-1" name="MY-Film-Box" group="OSN&BEIN&FOX", MY-Film-Box
+http://beryantv.com:25461/32443645743134/32443645743134/891
+#EXTINF:0 type="stream" channelId="2481" name="FOX-Action" group="OSN&BEIN&FOX", FOX-Action
+http://beryantv.com:25461/32443645743134/32443645743134/892
+#EXTINF:0 type="stream" channelId="177" name="FOX" group="OSN&BEIN&FOX", FOX
+http://beryantv.com:25461/32443645743134/32443645743134/894
